@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Lek01_TimeComplexity/Lek01_TimeComplexity.iml" filepath="$PROJECT_DIR$/Lek01_TimeComplexity/Lek01_TimeComplexity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lek02_BST_25V/Lek02_BST_25V.iml" filepath="$PROJECT_DIR$/Lek02_BST_25V/Lek02_BST_25V.iml" />
       <module fileurl="file://$PROJECT_DIR$/PRO3_25V_Udleveret.iml" filepath="$PROJECT_DIR$/PRO3_25V_Udleveret.iml" />
     </modules>
   </component>
